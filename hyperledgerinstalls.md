@@ -7,6 +7,7 @@
 __Linux Mint 18.3 Cinnamon 64 bit__
 
 Start with the composer install: https://hyperledger.github.io/composer/unstable/installing/development-tools.html
+* I had trouble with the npm install of the composer-cli with npm v5.6.0 and node v8.11.2
  
 Make sure you have all of the pre-reqs: https://hyperledger.github.io/composer/unstable/installing/installing-prereqs.html
 
