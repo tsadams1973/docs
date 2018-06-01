@@ -5,6 +5,7 @@
 * Explorer
 
 __Linux Mint 18.3 Cinnamon 64 bit__
+
 Start with the composer install: https://hyperledger.github.io/composer/unstable/installing/development-tools.html
  
 Make sure you have all of the pre-reqs: https://hyperledger.github.io/composer/unstable/installing/installing-prereqs.html
