@@ -2,5 +2,5 @@
 
 |Deck|Link|Notes|
 |----|----|-----|
-|Devices| [Deck]() | A deck I put together to establish baseline knowledge around medical devices. |
-|Architecture | [Deck]() | Borrowing generously from Gartner and IEEE to work out some ideas about the enterprise architecture function. |
+|Mobile Devices and Wearables| [Deck](MobileDevicesWearables.pptx) | Some basic information about medical devices & wearables, and their use on clinical trials. |
+|Enterprise Architecture | [Deck]() | Borrowing generously from Gartner and IEEE to work out some ideas about the enterprise architecture function. |
