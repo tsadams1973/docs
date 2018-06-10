@@ -18,7 +18,7 @@ Make sure you have all of the pre-reqs: https://hyperledger.github.io/composer/u
 _Note_: 
 Helpful for putting Docker on mint: 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1
-Note: When setting up the repo, substitute xenial for `$(lib_release -cs)`
+Note: When setting up the repo, substitute `xenial` for `$(lib_release -cs)`
 ```
 sudo add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
