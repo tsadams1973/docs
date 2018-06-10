@@ -7,3 +7,4 @@ A place to keep some of the documents I am working on.
 |----------|--------------|
 |[Hyperledger Install](hyperledgerinstalls.md)| Notes on installing Hyperledger (Composer and Fabric) on Mint|
 |[Papers](/Papers)| Papers I have written. |
+|[Decks](/Decks)|Slide decks I have made. |
